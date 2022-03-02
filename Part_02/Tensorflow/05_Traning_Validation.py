@@ -81,7 +81,7 @@ plt.show()
 
 # 4. Model 저장하고 불러오기
 
-seq_model.save_weights('seq_model.ckpt')
+seq_model.save_weights('C:/Users/the35/Documents/Z. etc/DL_ALL/Part_02/seq_model.ckpt')
 
 
 # %%
@@ -103,3 +103,5 @@ seq_model_2.load_weights('seq_model.ckpt')
 # %%
 
 seq_model_2.evaluate(test_dataset)
+
+# %%
