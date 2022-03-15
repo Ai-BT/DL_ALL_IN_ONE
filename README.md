@@ -14,3 +14,4 @@ Pytorch 데이터, 학습 원리 <br/>
 Alex-net <br/>
 RNN <br/>
 LTSM <br/>
+OCR <br/>
