@@ -15,3 +15,4 @@ Alex-net <br/>
 RNN <br/>
 LTSM <br/>
 OCR <br/>
+PYQT5 <br/>
